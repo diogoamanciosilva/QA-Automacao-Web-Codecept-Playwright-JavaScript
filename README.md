@@ -4,7 +4,7 @@
 
 <img width="1912" height="741" alt="image" src="https://github.com/user-attachments/assets/8dc7f870-7960-4e7a-99ba-97a38786b6df" />
 
-O projeto consiste em uma suíte de testes automatizados para o site FasTix, baseada na versão de produção ativa publicada em julho de 2026.
+O projeto consiste em uma suíte de testes automatizados para o site FasTix (https://fastix.com.br), baseada na versão de produção ativa publicada em julho de 2026.
 
 A FasTix é uma plataforma de comercialização, distribuição e intermediação de ingressos, além de produtos e serviços associados ao mercado de entretenimento no Brasil. Atuando como uma ticketeira, ela conecta o público aos organizadores de eventos.
 

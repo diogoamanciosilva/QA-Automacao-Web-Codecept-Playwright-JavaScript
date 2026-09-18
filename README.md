@@ -44,3 +44,11 @@ Todos os testes e a estrutura deste repositório foram desenvolvidos por Diogo A
 - [🚀 Próximos passos (CI/CD)](#-próximos-passos-cicd)
 - [💡 Aprendizados técnicos](#-aprendizados-técnicos)
 - [✅ Contato](#-contato)
+
+- ---
+
+## 📱 Sobre o site
+
+
+
+---
